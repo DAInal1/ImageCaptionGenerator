@@ -1,4 +1,4 @@
-# ImageCaptionGenerator
+# Image Caption Generator
 This is an image caption generating model that uses Keras' deep learning modules to create an image description generator that takes a photo as an input and outputs a text description of the image. This model was trained using [How to Develop a Deep Learning Photo Caption Generator from Scratch](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/) as a reference. Data was obtained from: [Data Request Form](https://forms.illinois.edu/sec/1713398). This was an exercise to better understand how Deep Learning can be used with image and textual data, for the data training part I'm still reading the paper on [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) to better understand the implementation details for the VGG16(used to train the network here) so it can be optimized better.
 
 ## Result
